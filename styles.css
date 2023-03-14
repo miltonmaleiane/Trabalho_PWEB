@@ -1,0 +1,29 @@
+#content {
+text-align: left;
+}
+#content li{
+    list-style: none;
+}
+#topo img{
+width: 150px;
+height: 100px;
+align-self: center;
+display: block;
+margin-left: auto;
+margin-top: -110px;
+}
+#nome{
+    margin-top: 15px;
+    background-color: greenyellow;
+    height: 30px;
+    text-align: center;
+    color: #fff;
+}
+#experience{
+    margin-top: 15px;
+    background-color: darkgrey;
+    width: 1500px;
+   margin-left: auto;
+margin-right: auto;
+
+}
