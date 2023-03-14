@@ -28,3 +28,14 @@ margin-top: -110px;
 margin-right: auto;
 
 }
+table{
+    margin-top: 10px;
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
